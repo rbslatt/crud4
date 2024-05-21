@@ -1,0 +1,9 @@
+﻿Build started at 7:37 PM...
+1>------ Build started: Project: ACT1E_CRUD, Configuration: Debug Any CPU ------
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>C:\Users\Cong\Documents\jeremy\ACT1E_CRUD\ACT1E_CRUD\register.cs(13,26,13,34): warning CS8981: The type name 'register' only contains lower-cased ascii characters. Such names may become reserved for the language.
+1>C:\Users\Cong\Documents\jeremy\ACT1E_CRUD\ACT1E_CRUD\register.Designer.cs(3,19,3,27): warning CS8981: The type name 'register' only contains lower-cased ascii characters. Such names may become reserved for the language.
+1>ACT1E_CRUD -> C:\Users\Cong\Documents\jeremy\ACT1E_CRUD\ACT1E_CRUD\bin\Debug\net8.0-windows\ACT1E_CRUD.dll
+1>Done building project "ACT1E_CRUD.csproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 7:37 PM and took 11.248 seconds ==========
